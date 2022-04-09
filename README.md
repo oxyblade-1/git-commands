@@ -1,4 +1,4 @@
-#Les commande GIT
+# Les commande GIT
 
 *git clone <link>*
 > liaison dépots avec votre ordinateur local
