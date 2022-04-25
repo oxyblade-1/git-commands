@@ -1,19 +1,19 @@
 # Les commande GIT
 
-*git add <name file> (selection d'un fichier)*
+*git add (name file)*
 > (selection de tout les fichier) ou -A
   
-*git rm <name file>*
+*git rm (name file)*
 > supprimer un fichier
 
-*git branch <name_branch>*
+*git branch (name_branch)*
 > créer une branche pour créer des envois sur une partie du code appart
 ( cette commande doit être executer en premier si l'on veut changer de branche)
 
-*git checkout <name_branch>*
+*git checkout (name_branch)*
 > se placer sur la branche afin d'ajouter du contenu et des ajouts
 
-*git clone <link>*
+*git clone (link)*
 > liaison dépots avec votre ordinateur local
   
 > Permet la mise en attente des fichiers vers
@@ -35,5 +35,5 @@ et création du commit! (le -m "text"; n'est pas obligatoire !)
 *git push*
 > envoi du commit sur le dépos en ligne
 
-*git push --set-upstream origin <name_branch>*
+*git push --set-upstream origin (name_branch)*
 > envoi de la branche en ligne
