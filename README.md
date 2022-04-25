@@ -1,5 +1,7 @@
 # Les commande GIT
 
+![git](https://github.com/oxyblade-1/git/blob/main/git.png)
+
 *git add (name file)*
 > (selection de tout les fichier) ou -A
   
